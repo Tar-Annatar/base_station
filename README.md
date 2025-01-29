@@ -9,4 +9,6 @@
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=py,git,java,html,css,bootstrap)](https://skillicons.dev)
 
-### Licensing
+### Progress
+![GitHub last commit](https://img.shields.io/github/last-commit/Tar-Annatar/base_station)
+![GitHub watchers](https://img.shields.io/github/watchers/Tar-Annatar/base_station)
