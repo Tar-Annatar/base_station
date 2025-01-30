@@ -17,6 +17,6 @@
 </a>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=py,git,java,html,css,bootstrap)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,html,css,bootstrap,flask)](https://skillicons.dev)
 
 
