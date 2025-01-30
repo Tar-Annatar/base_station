@@ -12,7 +12,9 @@
 <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fbase-station-hl7p.onrender.com">
 
 ### Link
-<img alt="Static Badge" src="https://img.shields.io/badge/LINK-blue?link=https%3A%2F%2Fbase-station-hl7p.onrender.com%2Flogin">
+<a href="https://base-station-hl7p.onrender.com/login">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LINK-blue">
+</a>
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=py,git,java,html,css,bootstrap)](https://skillicons.dev)
